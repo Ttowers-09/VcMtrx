@@ -44,7 +44,7 @@ La función número 4 *SumMatrix* toma dos parámetros definidos anteriormente l
 tamaño R^n y las suma
 (Matriz1 + Matriz 2 -> matriz_resultado)
 
-#Función 5 (Inversa (aditiva) de una matriz compleja).
+##Función 5 (Inversa (aditiva) de una matriz compleja).
 La función 5 *SumAditMatriz* toma una matriz compleja definda previamente y la suma con la mismo pero negativa, 
 obtendremos una matriz de tamaño igual pero en sus pocisiones tendra 0.
 (matriz1 + (-matriz1) -> matriz_resultado)
